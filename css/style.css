@@ -7,6 +7,7 @@
   --line: #e2e9f2;
   --surface: #ffffff;
 }
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
